@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2e2f42;
+}
+
+.top-menu {
+    width: 1440;
+    height: 72px;
+    background-color: #E7E9FC;
+    text-decoration: none;
+    display:flex;
+    flex-direction: row;
+    font-weight: 500;
+    font-size: 16px 2%;
+    line-height: 21px;
+    
+}
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px; 
+}
+.logo-colour {
+    color: #0000ff;
+}
+
+a {
+    text-decoration: none;
+    color: #2e2f42;
+
+}
+li {
+    list-style-type: none;
+}
+.contact-details {
+    font-weight: 400;
+}
