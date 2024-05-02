@@ -8,19 +8,21 @@ body {
     height: 72px;
     background-color: #E7E9FC;
     text-decoration: none;
-    display:flex;
+    display: flex;
     flex-direction: row;
     font-weight: 500;
-    font-size: 16px 2%;
+    font-size: 16px;
     line-height: 21px;
-    
+
 }
+
 .logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px; 
+    line-height: 21px;
 }
+
 .logo-colour {
     color: #0000ff;
 }
@@ -30,9 +32,87 @@ a {
     color: #2e2f42;
 
 }
+
 li {
     list-style-type: none;
 }
+
 .contact-details {
     font-weight: 400;
+}
+
+.welcome-title {
+    width: 1440px;
+    height: 600px;
+    top: 72px;
+    background-color: #2E2F42;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-align: center;
+
+}
+
+.btn {
+    color: #ffffff;
+    background-color: #4D5AE5;
+    width: Hug (169px)px;
+    height: Hug (56px)px;
+    top: 428px;
+    left: 636px;
+    padding: 16px 32px 16px 32px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.company-values > ul li {
+    width: 1128px;
+    height: 104px;
+    top: 792px;
+    left: 156px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+footer {
+    width: 1440px;
+    height: 312px;
+    top: 2988px;
+    gap: 0px;
+    opacity: 0px;
+    color: #e7e9fc;
+    background-color: #2E2F42;
+    ;
+}
+.logo-buttom {
+    color: #e7e9fc; 
+}
+.team > ul li {
+    width: 1440px;
+height: 732px;
+top: 1016px;
+gap: 0px;
+opacity: 0px;
+background-color: #F4F4FD;
+;
 }
