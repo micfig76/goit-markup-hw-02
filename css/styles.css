@@ -39,6 +39,7 @@ li {
 
 .contact-details {
     font-weight: 400;
+    font-style: normal;
 }
 
 .welcome-title {
@@ -102,4 +103,16 @@ footer {
     line-height: 1.5;
     letter-spacing: 0.02em;
 color: #404bbf;
+}
+.first :hover :focus {
+    color: #404bbf;
+}
+.mail {
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+.mail :hover :focus{
+    color: #404bbf;
+
 }
