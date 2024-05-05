@@ -43,6 +43,7 @@ body {
 .motto-head {
     font-size: 56px;
     letter-spacing: 0.02em;
+    color: #ffffff;
 }
 
 .btn {
@@ -69,8 +70,9 @@ body {
     line-height: 1.11;
     text-transform: capitalize;
     color: #2E2F42;
-    
+
 }
+
 .team-head {
     line-height: 1.11;
     font-size: 20px;
@@ -86,7 +88,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    
+
 }
 
 .first {
@@ -123,6 +125,9 @@ body {
     font-size: 56px;
     letter-spacing: 0.02em;
     line-height: 1.2;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
 
 }
 
@@ -130,21 +135,25 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
 .portfolio-head {
     line-height: 1.11;
     text-transform: capitalize;
     color: #2E2F42;
 }
+
 .portfolio-head-image {
-color: #2E2F42;
+    color: #2E2F42;
 }
+
 .portfolio-head-text {
-line-height: 1.5;
-letter-spacing: 0.02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 
 }
+
 .logo-buttom {
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway"sans-serif;
     font-weight: 700;
     font-size: 18px;
     color: #e7e9fc;
