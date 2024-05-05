@@ -75,7 +75,7 @@ h2 {
     cursor: pointer;
 }
 
-.btn:hover:focus {
+.btn:hover:active {
     background-color: #404bbf;
 }
 
@@ -124,7 +124,7 @@ footer {
     color: #404bbf;
 }
 
-.first:focus {
+.first:active {
     color: #404bbf;
 }
 
@@ -138,7 +138,7 @@ footer {
     color: #404bbf;
 }
 
-.mail:focus {
+.mail:active {
     color: #404bbf;
 }
 
