@@ -66,6 +66,7 @@ h2 {
 }
 
 .btn {
+    font-size: 16px;
     font-weight: 500;
     letter-spacing: 0.04em;
     color: #ffffff;
@@ -75,12 +76,12 @@ h2 {
     cursor: pointer;
 }
 
-.btn:hover:active {
+.btn:hover {
     background-color: #404bbf;
 }
 
-.company-values>ul li {
-    opacity: 0px;
+.btn:focus {
+    background-color: #404bbf;
 }
 
 h3 {
@@ -110,9 +111,24 @@ footer {
     line-height: 1.11;
     text-transform: capitalize;
     color: #2E2F42;
-
+    
+}
+.team-head {
+    line-height: 1.11;
+    
 }
 
+.team-one {
+    background-color: #FFFFFF;
+}
+
+.team-one-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    
+}
 
 .first {
     line-height: 1.5;
@@ -124,7 +140,7 @@ footer {
     color: #404bbf;
 }
 
-.first:active {
+.first:focus {
     color: #404bbf;
 }
 
@@ -138,20 +154,18 @@ footer {
     color: #404bbf;
 }
 
-.mail:active {
+.mail:focus {
     color: #404bbf;
 }
 
 .value-one {
     color: #2E2F42;
+    font-size: 56px;
+    letter-spacing: 0.02em;
+
 }
 
 .value-one-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-
-.team-one {
-    background-color: #FFFFFF;
-
 }
