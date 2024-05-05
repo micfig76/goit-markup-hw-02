@@ -42,7 +42,7 @@ li {
     font-style: normal;
 }
 
-.welcome-title {
+.motto {
     background-color: #2E2F42;
     font-size: 56px;
     line-height: 1.07;
@@ -50,6 +50,10 @@ li {
     letter-spacing: 0.02em;
 }
 
+.motto-head {
+    font-size: 56px;
+    letter-spacing: 0.02em;
+}
 h1 {
     font-weight: 700;
     font-size: 60px;
@@ -99,12 +103,6 @@ footer {
     ;
 }
 
-.logo-buttom {
-    color: #e7e9fc;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
 
 .team {
     background-color: #F4F4FD;
@@ -115,7 +113,8 @@ footer {
 }
 .team-head {
     line-height: 1.11;
-    
+    font-size: 20px;
+    line-height: 1.2;
 }
 
 .team-one {
@@ -127,7 +126,7 @@ footer {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
+    
 }
 
 .first {
@@ -159,9 +158,11 @@ footer {
 }
 
 .value-one {
+    font-size: 20px;
     color: #2E2F42;
     font-size: 56px;
     letter-spacing: 0.02em;
+    line-height: 1.2;
 
 }
 
@@ -181,4 +182,13 @@ color: #2E2F42;
 line-height: 1.5;
 letter-spacing: 0.02em;
 
+}
+.logo-buttom {
+    font-family: "Raleway" sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #e7e9fc;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
