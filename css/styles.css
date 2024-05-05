@@ -141,22 +141,34 @@ body {
 .value-one-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-family: 36px;
 }
 
 .portfolio-head {
     line-height: 1.11;
     text-transform: capitalize;
     color: #2E2F42;
+    text-align: center;
+    letter-spacing: 0.02;
+
 }
 
 .portfolio-head-image {
     color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
 }
 
 .portfolio-head-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
 
+}
+.portfolio-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .logo-buttom {
