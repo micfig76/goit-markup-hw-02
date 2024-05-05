@@ -27,16 +27,6 @@ body {
     color: #2e2f42;
 }
 
-a {
-    text-decoration: none;
-    color: #2e2f42;
-
-}
-
-li {
-    list-style-type: none;
-}
-
 .contact-details {
     font-weight: 400;
     font-style: normal;
@@ -53,20 +43,6 @@ li {
 .motto-head {
     font-size: 56px;
     letter-spacing: 0.02em;
-}
-h1 {
-    font-weight: 700;
-    font-size: 60px;
-    color: #ffffff;
-}
-
-h2 {
-    font-size: 36px;
-    font-weight: 700;
-    line-height: 40px;
-    letter-spacing: 0.02em;
-    text-align: center;
-
 }
 
 .btn {
@@ -87,22 +63,6 @@ h2 {
 .btn:focus {
     background-color: #404bbf;
 }
-
-h3 {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    text-align: center;
-}
-
-footer {
-    opacity: 0px;
-    color: #e7e9fc;
-    background-color: #2E2F42;
-    ;
-}
-
 
 .team {
     background-color: #F4F4FD;
