@@ -127,7 +127,7 @@ footer {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    
+
 }
 
 .first {
@@ -168,4 +168,17 @@ footer {
 .value-one-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.portfolio-head {
+    line-height: 1.11;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+.portfolio-head-image {
+color: #2E2F42;
+}
+.portfolio-head-text {
+line-height: 1.5;
+letter-spacing: 0.02em;
+
 }
