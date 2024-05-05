@@ -88,6 +88,7 @@ body {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .team-one-text {
@@ -173,6 +174,11 @@ body {
     letter-spacing: 0.02em;
 }
 
+.buttom {
+    background-color: #2E2F42;
+
+}
+
 .logo-buttom {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -182,4 +188,15 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     background-color: #2E2F42;
+}
+
+.logo-buttom-colour {
+    color: #F4F4FD;
+
+}
+
+.buttom-text {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
