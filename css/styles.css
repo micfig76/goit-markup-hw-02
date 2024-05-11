@@ -1,16 +1,26 @@
 body {
+    margin: 0px;
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
 
 .top-menu {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1440px;
+    height: 72px;
     background-color: #E7E9FC;
     text-decoration: none;
     font-weight: 500;
     font-size: 16px;
     line-height: 21px;
 
+}
+.top-menu-list {
+    list-style-type: none;
+    display: flex;
 }
 
 .logo {
