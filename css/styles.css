@@ -2,25 +2,46 @@ body {
     margin: 0px;
     font-family: 'Roboto', sans-serif;
     color: #434455;
-    background-color: #FFFFFF;
+    background-color: #E7E9FC;
 }
 
 .top-menu {
-    display:flex;
+    display: flex;
     align-items: center;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     width: 1440px;
     height: 72px;
     background-color: #E7E9FC;
-    text-decoration: none;
-    font-weight: 500;
     font-size: 16px;
-    line-height: 21px;
+    line-height: 24px;
+    font-weight: 500;
+    margin: 0px;
+}
+
+.top-menu-navigation {
+    display: flex;
+    gap: 20px;
+    margin: 76px;
 
 }
+
 .top-menu-list {
-    list-style-type: none;
     display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 76;
+    gap: 20px;
+}
+
+.list-item {
+    color: #2E2F42;
+    text-decoration: none;
+
+}
+
+.list-item:hover {
+    text-decoration: underline;
+    color: #404bbf;
 }
 
 .logo {
@@ -31,6 +52,8 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-left: 156px;
+    text-decoration: none;
 }
 
 .logo-colour {
@@ -38,19 +61,41 @@ body {
 }
 
 .contact-details {
+    display: flex;
     font-weight: 400;
     font-style: normal;
+    margin-right: 156px;
+  
+
+}
+
+.contact-navigation {
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+padding-left: 250px;
+}
+
+.contact-list-item {
+    text-decoration: none;
+    color: #434455;
+    
+
 }
 
 .motto {
+    background-image: ;
     background-color: #2E2F42;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
+
 }
 
 .motto-head {
+    margin: 0;
+    padding: 0;
     font-size: 56px;
     letter-spacing: 0.02em;
     color: #ffffff;
